@@ -13,4 +13,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3783-mirror-distance-of-an-integer](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 <!---LeetCode Topics End-->
