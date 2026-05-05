@@ -18,10 +18,12 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 ## Two Pointers
@@ -35,5 +37,6 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 <!---LeetCode Topics End-->
