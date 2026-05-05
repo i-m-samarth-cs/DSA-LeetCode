@@ -29,6 +29,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -39,4 +40,8 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
