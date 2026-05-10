@@ -68,4 +68,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0182-duplicate-emails](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0182-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
