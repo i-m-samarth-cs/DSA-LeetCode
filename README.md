@@ -4,6 +4,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1340-jump-game-v](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
@@ -29,6 +30,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [1340-jump-game-v](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
@@ -93,4 +95,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1340-jump-game-v](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1340-jump-game-v/) | Hard |
 <!---LeetCode Topics End-->
