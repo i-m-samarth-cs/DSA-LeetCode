@@ -47,6 +47,7 @@
 | [3225-maximum-score-from-grid-operations](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3660-jump-game-ix](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3660-jump-game-ix/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -54,6 +55,7 @@
 | [0061-rotate-list](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2540-minimum-common-value/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +63,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [3161-block-placement-queries](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3161-block-placement-queries/) | Hard |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +118,7 @@
 | ------- | ------- |
 | [1340-jump-game-v](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [2126-destroying-asteroids](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,4 +135,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2126-destroying-asteroids](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 <!---LeetCode Topics End-->
