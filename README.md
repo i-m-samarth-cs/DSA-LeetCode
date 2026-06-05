@@ -11,6 +11,7 @@
 | [3225-maximum-score-from-grid-operations](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3660-jump-game-ix](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3660-jump-game-ix/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3783-mirror-distance-of-an-integer](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Array
 | Problem Name | Difficulty |
