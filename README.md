@@ -43,6 +43,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -61,6 +62,7 @@
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Binary Search
@@ -103,6 +105,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
