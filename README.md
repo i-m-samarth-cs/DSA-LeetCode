@@ -57,6 +57,7 @@
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3660-jump-game-ix](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3660-jump-game-ix/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,11 +143,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3161-block-placement-queries](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3161-block-placement-queries/) | Hard |
+| [3691-maximum-total-subarray-value-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2126-destroying-asteroids](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,4 +162,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 <!---LeetCode Topics End-->
