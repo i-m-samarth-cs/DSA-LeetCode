@@ -29,6 +29,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
@@ -158,6 +159,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,4 +168,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 <!---LeetCode Topics End-->
