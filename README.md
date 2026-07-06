@@ -50,6 +50,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -172,6 +173,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1288-remove-covered-intervals](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1340-jump-game-v](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1840-maximum-building-height](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
