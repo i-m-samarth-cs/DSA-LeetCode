@@ -10,6 +10,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3660-jump-game-ix](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3660-jump-game-ix/) | Medium |
@@ -32,6 +33,7 @@
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -77,6 +79,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -94,6 +97,7 @@
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2540-minimum-common-value/) | Easy |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -104,6 +108,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3161-block-placement-queries](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Matrix
@@ -185,6 +190,7 @@
 | [1840-maximum-building-height](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -206,6 +212,7 @@
 | ------- | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Enumeration
@@ -265,6 +272,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
