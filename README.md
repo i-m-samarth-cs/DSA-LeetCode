@@ -53,6 +53,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +94,7 @@
 | [3691-maximum-total-subarray-value-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +106,7 @@
 | [2540-minimum-common-value](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,6 +164,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +172,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,6 +207,7 @@
 | [2126-destroying-asteroids](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
