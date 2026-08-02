@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1871-jump-game-vii/) | Medium |
@@ -46,6 +47,7 @@
 | [0048-rotate-image](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0486-predict-the-winner](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1840-maximum-building-height](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -74,6 +76,7 @@
 | [0048-rotate-image](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0486-predict-the-winner](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -375,4 +378,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
