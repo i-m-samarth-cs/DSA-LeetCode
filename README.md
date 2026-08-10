@@ -10,6 +10,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1406-stone-game-iii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [1871-jump-game-vii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
@@ -53,6 +54,7 @@
 | [0877-stone-game](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [1840-maximum-building-height](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -400,6 +402,7 @@
 | [0877-stone-game](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -408,8 +411,18 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
