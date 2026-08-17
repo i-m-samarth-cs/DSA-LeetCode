@@ -11,6 +11,7 @@
 | [1340-jump-game-v](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1406-stone-game-iii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
@@ -56,6 +57,7 @@
 | [1140-stone-game-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1840-maximum-building-height](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2029-stone-game-ix/) | Medium |
@@ -95,6 +97,7 @@
 | [1340-jump-game-v](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1406-stone-game-iii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1563-stone-game-v](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1840-maximum-building-height](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -418,6 +421,7 @@
 | [1140-stone-game-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
