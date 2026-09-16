@@ -13,6 +13,7 @@
 | [1406-stone-game-iii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1563-stone-game-v/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1871-jump-game-vii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -32,6 +33,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1140-stone-game-ii/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1871-jump-game-vii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
@@ -66,6 +68,7 @@
 | [1406-stone-game-iii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1563-stone-game-v/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1840-maximum-building-height](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [1927-sum-game](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -465,6 +468,7 @@
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
