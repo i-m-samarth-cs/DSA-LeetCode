@@ -229,6 +229,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -258,6 +259,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -295,6 +297,7 @@
 | ------- | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1871-jump-game-vii/) | Medium |
@@ -327,6 +330,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1340-jump-game-v/) | Hard |
@@ -427,6 +431,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -507,6 +512,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
