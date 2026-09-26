@@ -122,6 +122,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1840-maximum-building-height](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -235,6 +236,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -300,6 +302,7 @@
 | [1096-brace-expansion-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1871-jump-game-vii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [1927-sum-game](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
