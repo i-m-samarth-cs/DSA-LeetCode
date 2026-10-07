@@ -265,6 +265,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -304,6 +305,7 @@
 | [0020-valid-parentheses](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -539,6 +541,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Minimax
