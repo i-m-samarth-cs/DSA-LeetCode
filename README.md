@@ -317,6 +317,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1871-jump-game-vii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1871-jump-game-vii/) | Medium |
@@ -394,6 +395,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1927-sum-game](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2029-stone-game-ix/) | Medium |
@@ -461,6 +463,7 @@
 | [1096-brace-expansion-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Counting
@@ -587,5 +590,6 @@
 | [1021-remove-outermost-parentheses](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
