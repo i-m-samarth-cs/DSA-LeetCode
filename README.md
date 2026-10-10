@@ -138,6 +138,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2540-minimum-common-value](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -202,6 +203,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2540-minimum-common-value](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -358,6 +360,7 @@
 | [1840-maximum-building-height](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -401,6 +404,7 @@
 | [2029-stone-game-ix](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -437,6 +441,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
