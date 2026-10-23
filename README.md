@@ -61,6 +61,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -178,6 +179,7 @@
 | [3620-network-recovery-pathways](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3660-jump-game-ix](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3660-jump-game-ix/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
