@@ -80,6 +80,7 @@
 | [1927-sum-game](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2029-stone-game-ix/) | Medium |
+| [2409-count-days-spent-together](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -340,6 +341,7 @@
 | [1871-jump-game-vii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [1927-sum-game](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2409-count-days-spent-together](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
