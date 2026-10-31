@@ -30,6 +30,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3660-jump-game-ix](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3660-jump-game-ix/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -187,6 +188,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3660-jump-game-ix](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3660-jump-game-ix/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -247,6 +249,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
