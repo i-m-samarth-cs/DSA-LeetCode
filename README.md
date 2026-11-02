@@ -72,6 +72,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
@@ -121,6 +122,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0835-image-overlap](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0835-image-overlap/) | Medium |
@@ -388,6 +390,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
