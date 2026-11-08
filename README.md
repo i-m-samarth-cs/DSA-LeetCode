@@ -132,6 +132,7 @@
 | [0877-stone-game](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -256,6 +257,7 @@
 | [0048-rotate-image](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0835-image-overlap](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1914-cyclically-rotating-a-grid](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -315,6 +317,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -523,6 +526,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -551,6 +555,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2029-stone-game-ix](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -570,6 +575,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
