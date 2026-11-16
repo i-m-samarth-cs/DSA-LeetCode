@@ -349,6 +349,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1914-cyclically-rotating-a-grid](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -382,6 +383,7 @@
 | [1871-jump-game-vii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [1927-sum-game](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
