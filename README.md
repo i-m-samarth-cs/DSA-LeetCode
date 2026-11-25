@@ -232,6 +232,7 @@
 | [3882-minimum-xor-path-in-a-grid](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -268,6 +269,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -329,6 +331,7 @@
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -740,4 +743,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/i-m-samarth-cs/DSA-LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
